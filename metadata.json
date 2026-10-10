@@ -1,0 +1,6 @@
+{
+  "name": "ArtsFest Pro - Arts Festival Management System",
+  "description": "Comprehensive arts festival management software for schools, colleges, and university cultural fests with multi-role dashboards, scheduling, judging, live results, leaderboards, certificates, and public portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
